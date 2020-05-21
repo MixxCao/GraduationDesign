@@ -1,1 +1,1 @@
-# bachelor-s-degree-thesis
+# 毕业设计的代码与程序
